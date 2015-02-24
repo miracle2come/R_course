@@ -1,2 +1,2 @@
 # R_course
-Coursera К course
+Coursera R course
